@@ -51,11 +51,11 @@ export default function Homepage() {
           <h2 className="text-3xl font-bold text-center mb-8">What Our Users Say</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <blockquote className="border-l-4 border-black pl-4 italic">
-              "EasyEntry transformed my visa application from a daunting task to a smooth journey. Their support was invaluable!" 
+              &quot;EasyEntry transformed my visa application from a daunting task to a smooth journey. Their support was invaluable!&quot; 
               <footer className="mt-2 font-bold">- Emma L., Student in the UK</footer>
             </blockquote>
             <blockquote className="border-l-4 border-black pl-4 italic">
-              "Thanks to EasyEntry, I navigated Canada's immigration process with confidence. Highly recommended for anyone considering a move abroad."
+              &quot;Thanks to EasyEntry, I navigated Canada&apos;s immigration process with confidence. Highly recommended for anyone considering a move abroad.&quot;
               <footer className="mt-2 font-bold">- Carlos M., New Resident in Canada</footer>
             </blockquote>
           </div>
